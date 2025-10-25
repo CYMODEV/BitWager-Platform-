@@ -50,7 +50,7 @@ BitWager is a **developer-first skill-based wagering platform** with **partner i
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 - `/app` — BitWager core application  
 - `/partners` — partner integration APIs and campaign manager  
@@ -60,7 +60,7 @@ BitWager is a **developer-first skill-based wagering platform** with **partner i
 
 ---
 
-## ⚖️ Disclosure
+##  Disclosure
 
 - **Skill-based only**: BitWager supports **skill contests**, not games of chance.  
 - **Jurisdictional limits**: Real-money wagering is **region-gated**; simulated modes available elsewhere.  
